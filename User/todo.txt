@@ -1,0 +1,21 @@
+insert password verification in server . php sign_up 
+https://stackoverflow.com/questions/51830396/form-date-input-to-database-with-php-and-mysql
+https://stackoverflow.com/questions/2113940/compare-given-date-with-today
+https://www.geeksforgeeks.org/comparing-two-dates-in-php/
+
+
+Email check database contains the email or not
+
+
+Completed//Disable Document
+Completed//Document name while giving feedback of a Document
+Completed//Verify office user
+Completed//Forget password both
+Completed//remember me office 
+Completed//Error handling at error page i.e if logged in then home page otherwise login page
+
+
+         //-- optional
+Completed//master user
+         //Officer Activity
+
